@@ -1,2 +1,2 @@
 # PANA
-AutoHotKey for PANA Workflow
+Using AutoHotKey for PANA Term Collection
