@@ -1,5 +1,4 @@
-# PANA
-Using AutoHotKey for PANA Term Collection
+# Using AutoHotKey for PANA Term Collection
 
 # What is AutoHotkey? 
 
