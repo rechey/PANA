@@ -1,5 +1,3 @@
-# Using AutoHotKey for PANA Term Collection
-
 # What is AutoHotkey? 
 
 AutoHotKey is a windows scripting language designed to automate repetitive tasks using keyboard shortcuts. 
