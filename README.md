@@ -25,15 +25,13 @@ The initial stage of PANA term collection is repetitive and therefore, able to a
 6. Inside the extracted folder, you will find different types of scripts for each term collector. Locate the files with your name. 
           Note: Each term collector will be assigned two scripts, Script A and Script B. Both scripts are designed to execute simple keyword searches. Script A is designed to perform a search for the first term in our assigned terms list, while Script B is designed to perform searches for each subsequent term in our assigned term list. 
 
-7. Edit the script labeled "YourName_ScriptA using a text editor like Notepad by right-clicking on it and selecting the "Edit Script" option. 
+7. Edit the script labeled "YourName_ScriptA" using a text editor like Notepad by right-clicking on it and selecting the "Edit Script" option. 
 
 8. *Important* Find the target location for Google Chrome inside the code of Script A (lines 7 & 19) and replace it with your Google Chrome target location. To edit the script, delete the highlighted portion of the code (shown in screenshot) and replace it with your Google Chrome target location and then save your changes. 
             An easy way to find your Google Chrome target location is to right-click on the Google Chrome shortcut icon on your desktop, navigate to “Properties” and copy the contents next to “Target”. 
             Script B does not require any editing. 😊  
 
-9. To run a script, locate the scripts labeled with your name.  
-
-10. Run Script A first by right-clicking on it and selecting “Open” or by double clicking the file. Script A will search for the first term in our assigned terms list. To search for all subsequent terms, run Script B. 
+9. To run a script, locate the scripts labeled with your name. Run Script A first by right-clicking on it and selecting "Open or “Run script” or by double clicking the file. Script A will search for the first term in our assigned terms list. To search for all subsequent terms, run Script B. 
 
 11. To stop the script while it is running, press Ctrl+x 
 
