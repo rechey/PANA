@@ -21,10 +21,12 @@ Sleep, 4000
 ; Copy highlighted term (Press Ctrl+C)
 Send, ^c
 
-Sleep, 500
+Sleep, 3000
 
 ; Navigate to next tab (Press Ctrl+Tab)
 Send, ^{Tab}
+
+Sleep, 1000
 
 ; Specify the URL you want to navigate to
 urlToNavigate := "https://autoridades.dgb.unam.mx:8443/F?func=find-b-0&local_base=MX011"
