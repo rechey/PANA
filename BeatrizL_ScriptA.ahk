@@ -6,7 +6,7 @@ SetTitleMatchMode, 2 ; Match the title anywhere in the window title
 IfWinExist, Chrome ahk_exe chrome.exe
 {
     ; Chrome is running, open a new window with the specified URL
-    Run, "C:\Users\recheguren\AppData\Local\Google\Chrome\Application\chrome.exe" --new-window "https://uflorida-my.sharepoint.com/:x:/g/personal/recheguren_ufl_edu/ERF6eFqDeLVDuIfF3wZogGoBj5ogX7BmtR_AfeiZrWsqJA?e=AO4Wdb"
+    Run, "C:\Users\recheguren\AppData\Local\Google\Chrome\Application\chrome.exe" --new-window "https://uflorida-my.sharepoint.com/:x:/g/personal/recheguren_ufl_edu/Ealc7HtulcVKjaMe8BvCGkoBOty8w_TCkMTsRV0JULTjkw?e=55mBId"
     
     ; Wait for the new Chrome window to become active
     WinWaitActive, Chrome ahk_exe chrome.exe, , 5
@@ -18,7 +18,7 @@ IfWinExist, Chrome ahk_exe chrome.exe
 else
 {
     ; Chrome is not running, start Chrome with the specified URL
-    Run, "C:\Users\recheguren\AppData\Local\Google\Chrome\Application\chrome.exe" --new-window "https://uflorida-my.sharepoint.com/:x:/g/personal/recheguren_ufl_edu/ERF6eFqDeLVDuIfF3wZogGoBj5ogX7BmtR_AfeiZrWsqJA?e=AO4Wdb"
+    Run, "C:\Users\recheguren\AppData\Local\Google\Chrome\Application\chrome.exe" --new-window "https://uflorida-my.sharepoint.com/:x:/g/personal/recheguren_ufl_edu/Ealc7HtulcVKjaMe8BvCGkoBOty8w_TCkMTsRV0JULTjkw?e=55mBId"
     Sleep, 5000 ; Wait for Chrome to open
     WinMaximize ; Maximize the Chrome window
 }
