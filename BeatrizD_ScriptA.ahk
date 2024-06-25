@@ -59,7 +59,7 @@ Loop, 8 {
     Sleep, 200 ; Adjust the sleep time as needed
 }
 
-Sleep, 1000
+Sleep, 500
 
 ; Paste term into search bar (Press Ctrl+V)
 WinActivate, ahk_id %chromeWindowId%
