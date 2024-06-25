@@ -27,7 +27,7 @@ The initial stage of PANA term collection is repetitive and therefore, able to a
 
 7. Edit the script labeled "YourName_ScriptA" using a text editor like Notepad by right-clicking on it and selecting the "Edit Script" option. 
 
-8. *Important* Find the target location for Google Chrome inside the code of Script A (lines 7 & 19) and replace it with your Google Chrome target location. To edit the script, delete the highlighted portion of the code (shown in screenshot) and replace it with your Google Chrome target location and then save your changes. 
+8. *Important* Find the target location for Google Chrome inside the code of Script A (line 10) and replace it with your Google Chrome target location. To edit the script, delete the highlighted portion of the code (shown in screenshot) and replace it with your Google Chrome target location and then save your changes. 
             An easy way to find your Google Chrome target location is to right-click on the Google Chrome shortcut icon on your desktop, navigate to “Properties” and copy the contents next to “Target”. 
             Script B does not require any editing. 😊  
 
