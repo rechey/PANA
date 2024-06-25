@@ -1,5 +1,3 @@
-
-
 #SingleInstance Force
 
 ; Specify the title of the Chrome window you want to activate
