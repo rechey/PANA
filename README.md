@@ -46,7 +46,7 @@ The initial stage of PANA term collection is repetitive and therefore, able to a
 
 1. Lemb Digit@l: This resource cannot be automated. Server for this resource is sensitive to multiple page refresh triggers, referred to as a “single-page application” (SPA). Automation using AutoHotKey requires multiple log-in requests, which will overwhelm the server. 🙁  
 
-2. Biblioteca Nacional de España (BNE or abne): This resource cannot be automated. Searching inside this resource directly does not yield results. Searches must be performed through https://fast.oclc.org/searchfast/ , which complicates the process. Perhaps one day, I will solve this issue. For now, it’s much easier to perform searches manually according to the steps outlined in this recording. 
+2. Biblioteca Nacional de España (BNE or abne): This resource cannot be automated. Searching inside this resource directly does not yield results. Searches must be performed through https://fast.oclc.org/searchfast/ , which complicates the process.
 
 3. Biblioteca Nacional de Argentina: This resource cannot be automated. Server is very sensitive and crashes frequently. 
 
